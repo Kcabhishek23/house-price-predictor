@@ -244,7 +244,15 @@ Streamlit Application
 
 ## Running the Project
 
-Clone the repository and enter the project directory.
+Clone the repository:
+```bash
+git clone https://github.com/Kcabhishek23/house-price-predictor.git
+```
+
+Enter the project directory:
+```bash
+cd house-price-predictor
+```
 
 Install the required packages:
 
